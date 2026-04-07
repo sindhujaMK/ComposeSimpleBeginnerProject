@@ -1,2 +1,2 @@
 # ComposeSimpleBeginnerProject
-few screens with copase basing plus navigation plus bottom bar
+few screens with compose basinc plus navigation plus bottom bar
